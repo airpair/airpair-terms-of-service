@@ -1,4 +1,4 @@
-### This Agreement was last modified on March 24, 2015.
+## This Agreement was last modified on March 24, 2015.
 
 Please read these Terms of Service ("Agreement", "Terms of Service") carefully before using http://www.airpair.com/ ("the Site") operated by AirPair, Inc ("us", "we", or "our"). This Agreement sets forth the legally binding terms and conditions for your use of the Site at http://www.airpair.com/.
  
@@ -36,7 +36,7 @@ AirPair, Inc has no control over, and assumes no responsibility for, the content
 
 This Agreement (and any further rules, polices, or guidelines incorporated by reference) shall be governed and construed in accordance with the laws of California, United States, without giving effect to any principles of conflicts of law.
 
-## Changes To This Agreement
+### Changes To This Agreement
 
 We reserve the right, at our sole discretion, to modify or replace these Terms of Service by posting the updated terms on the Site. Your continued use of the Site after any such changes constitutes your acceptance of the new Terms of Service.
 
